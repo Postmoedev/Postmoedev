@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Jacob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/jacob-ayer
+[linkedin]: <a href="https://www.linkedin.com/in/jacob-ayer">
